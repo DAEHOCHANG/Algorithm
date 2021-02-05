@@ -7,3 +7,5 @@
 ## 문제
 - [1712(손익분기점)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/1712)
 - [2292(벌집)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/2292)
+- [1193(분수찾기)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/1193)
+- [2869(달팽이는 올라가고 싶다)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/2869)
