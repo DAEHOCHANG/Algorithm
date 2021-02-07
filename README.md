@@ -5,8 +5,18 @@
 
 문제를 클릭하여 링크를 타면 설명을 해둔 md파일과 소스코드가 있습니다.
 
+다음과 같은 피드백 환영합니다.
+- 재쳄점으로 틀렸습니다.
+- xxx번 문제 이런 코드가 더 좋아요
+- 이런 함수도 있어요
+- 기타 문제관련 질문
+
 ## 문제
 - [1712(손익분기점)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/1712)
 - [2292(벌집)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/2292)
 - [1193(분수찾기)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/1193)
 - [2869(달팽이는 올라가고 싶다)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/2869)
+- [10250(ACM 호텔](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/10250)
+- [2775(부녀회장이 될테야)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/2775)
+- [10757(큰 수 A+B)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/10757)
+- [1011(Fly me to the Alpha Centauri)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/1011)
