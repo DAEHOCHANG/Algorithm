@@ -20,3 +20,13 @@
 - [2775(부녀회장이 될테야)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/2775)
 - [10757(큰 수 A+B)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/10757)
 - [1011(Fly me to the Alpha Centauri)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/1011)
+
+- [1978(소수 찾기)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/1978)
+- [2581(소수)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/2581)
+- [11653(소인수분해)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/11653)
+- [1929(소수 구하기)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/1929)
+- [4948(베르트랑 공준)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/4948)
+- [9020(골드바흐의 추측)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/9020)
+- [1085(직사각형에서 탈출)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/1085)
+- [3009(네 번째 점)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/3009)
+- [4153(직각삼각형)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/4153)
