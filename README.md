@@ -20,7 +20,6 @@
 - [2775(부녀회장이 될테야)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/2775)
 - [10757(큰 수 A+B)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/10757)
 - [1011(Fly me to the Alpha Centauri)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/1011)
-
 - [1978(소수 찾기)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/1978)
 - [2581(소수)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/2581)
 - [11653(소인수분해)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/11653)
@@ -30,3 +29,9 @@
 - [1085(직사각형에서 탈출)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/1085)
 - [3009(네 번째 점)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/3009)
 - [4153(직각삼각형)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/4153)
+- [3053(택시 기하학)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/3053)
+- [1002(터렛)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/1002)
+- [10872(팩토리얼)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/10872)
+- [10870(피보나치 수 5)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/10870)
+- [2447(별 찍기 - 10)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/2447)
+- [11729(하노이 탑 이동 순서)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/11729)
