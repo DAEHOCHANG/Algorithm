@@ -35,3 +35,6 @@
 - [10870(피보나치 수 5)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/10870)
 - [2447(별 찍기 - 10)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/2447)
 - [11729(하노이 탑 이동 순서)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/11729)
+- [2798(블랙잭)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/2798)
+- [2231(분해합)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/2231)
+- [7568 (덩치)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/7568)
