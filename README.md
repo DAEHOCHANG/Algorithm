@@ -39,3 +39,4 @@
 - [2231(분해합)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/2231)
 - [7568 덩치)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/7568)
 - [1018(체스판 다시 칠하기)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/1018)
+- [1436 (영화감독 숌)](https://github.com/DAEHOCHANG/Algorithm/tree/main/Algorithm/1436)
